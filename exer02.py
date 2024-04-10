@@ -1,0 +1,1 @@
+num = int(input("Digite 5 valores inteiros positivos: "))
